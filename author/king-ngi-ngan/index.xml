@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>King Ngi Ngan | Heqian Qiu</title>
+    <link>https://QiuHeqian.github.io/author/king-ngi-ngan/</link>
+      <atom:link href="https://QiuHeqian.github.io/author/king-ngi-ngan/index.xml" rel="self" type="application/rss+xml" />
+    <description>King Ngi Ngan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://QiuHeqian.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>King Ngi Ngan</title>
+      <link>https://QiuHeqian.github.io/author/king-ngi-ngan/</link>
+    </image>
+    
+    <item>
+      <title>Instance-level Context Attention Network for instance segmentation</title>
+      <link>https://QiuHeqian.github.io/publication/icanet/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://QiuHeqian.github.io/publication/icanet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POS-trends Dynamic-Aware Model for Video Caption</title>
+      <link>https://QiuHeqian.github.io/publication/pda/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://QiuHeqian.github.io/publication/pda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multi-scale language embedding network for proposal-free referring expression comprehension</title>
+      <link>https://QiuHeqian.github.io/publication/msle/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://QiuHeqian.github.io/publication/msle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language-Aware Fine-Grained Object Representation for Referring Expression Comprehension</title>
+      <link>https://QiuHeqian.github.io/publication/hfrn/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://QiuHeqian.github.io/publication/hfrn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Context Features Embedding for Object Detection</title>
+      <link>https://QiuHeqian.github.io/publication/hce/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://QiuHeqian.github.io/publication/hce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A2RMNet: Adaptively Aspect Ratio Multi-Scale Network for Object Detection in Remote Sensing Images</title>
+      <link>https://QiuHeqian.github.io/publication/a2rmnet/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://QiuHeqian.github.io/publication/a2rmnet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

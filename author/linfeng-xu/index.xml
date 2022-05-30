@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linfeng Xu | Heqian Qiu</title>
+    <link>https://QiuHeqian.github.io/author/linfeng-xu/</link>
+      <atom:link href="https://QiuHeqian.github.io/author/linfeng-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Linfeng Xu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://QiuHeqian.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Linfeng Xu</title>
+      <link>https://QiuHeqian.github.io/author/linfeng-xu/</link>
+    </image>
+    
+    <item>
+      <title>Instance-level Context Attention Network for instance segmentation</title>
+      <link>https://QiuHeqian.github.io/publication/icanet/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://QiuHeqian.github.io/publication/icanet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Context Features Embedding for Object Detection</title>
+      <link>https://QiuHeqian.github.io/publication/hce/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://QiuHeqian.github.io/publication/hce/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hengcan Shi | Heqian Qiu</title>
+    <link>https://QiuHeqian.github.io/author/hengcan-shi/</link>
+      <atom:link href="https://QiuHeqian.github.io/author/hengcan-shi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hengcan Shi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://QiuHeqian.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Hengcan Shi</title>
+      <link>https://QiuHeqian.github.io/author/hengcan-shi/</link>
+    </image>
+    
+    <item>
+      <title>Language-Aware Fine-Grained Object Representation for Referring Expression Comprehension</title>
+      <link>https://QiuHeqian.github.io/publication/hfrn/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://QiuHeqian.github.io/publication/hfrn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Offset Bin Classification Network for Accurate Object Detection</title>
+      <link>https://QiuHeqian.github.io/publication/obc/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://QiuHeqian.github.io/publication/obc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Context Features Embedding for Object Detection</title>
+      <link>https://QiuHeqian.github.io/publication/hce/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://QiuHeqian.github.io/publication/hce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A2RMNet: Adaptively Aspect Ratio Multi-Scale Network for Object Detection in Remote Sensing Images</title>
+      <link>https://QiuHeqian.github.io/publication/a2rmnet/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://QiuHeqian.github.io/publication/a2rmnet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
