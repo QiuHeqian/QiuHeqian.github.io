@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<<<<<<< HEAD
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
@@ -181,25 +180,3 @@
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
 </urlset>
-=======
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://zz2summer.github.io/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://zz2summer.github.io/zh-cn/sitemap.xml</loc>
-    
-      <lastmod>2022-03-15T10:07:22+08:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://zz2summer.github.io/fr/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
->>>>>>> a0eebd464e30cf4cd55fece8c026fe94979c7831
