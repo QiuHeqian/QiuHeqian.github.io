@@ -20,13 +20,13 @@
     <loc>https://QiuHeqian.github.io/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://QiuHeqian.github.io/publication-type/1/</loc>
-    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://QiuHeqian.github.io/authors/</loc>
     <lastmod>2022-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://QiuHeqian.github.io/dataset/</loc>
+    <loc>https://QiuHeqian.github.io/datasets/</loc>
+    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://QiuHeqian.github.io/author/fanman-meng/</loc>
     <lastmod>2022-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://QiuHeqian.github.io/author/heqian-qiu/</loc>
@@ -35,37 +35,22 @@
     <loc>https://QiuHeqian.github.io/author/hongliang-li/</loc>
     <lastmod>2022-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://QiuHeqian.github.io/author/jianhua-cui/</loc>
-    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://QiuHeqian.github.io/author/lanxiao-wang/</loc>
-    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://QiuHeqian.github.io/author/minjian-zhang/</loc>
-    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://QiuHeqian.github.io/publication_types/</loc>
     <lastmod>2022-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://QiuHeqian.github.io/author/qingbo-wu/</loc>
     <lastmod>2022-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://QiuHeqian.github.io/dataset/refcrowd/</loc>
+    <loc>https://QiuHeqian.github.io/datasets/refcrowd/</loc>
     <lastmod>2022-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://QiuHeqian.github.io/author/zichen-song/</loc>
+    <loc>https://QiuHeqian.github.io/author/taijin-zhao/</loc>
     <lastmod>2022-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://QiuHeqian.github.io/publication-type/2/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://QiuHeqian.github.io/author/chao-shang/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://QiuHeqian.github.io/author/fanman-meng/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://QiuHeqian.github.io/author/heqian-qiu/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://QiuHeqian.github.io/publication/icanet/</loc>
@@ -77,19 +62,31 @@
     <loc>https://QiuHeqian.github.io/author/linfeng-xu/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://QiuHeqian.github.io/publication_types/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://QiuHeqian.github.io/publication/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://QiuHeqian.github.io/publication/pda/</loc>
     <lastmod>2021-11-30T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://QiuHeqian.github.io/publication-type/1/</loc>
+    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://QiuHeqian.github.io/publication/crossdet/</loc>
     <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://QiuHeqian.github.io/publication/msle/</loc>
-    <lastmod>2021-05-03T00:00:00+00:00</lastmod>
+    <loc>https://QiuHeqian.github.io/author/jianhua-cui/</loc>
+    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://QiuHeqian.github.io/author/taijin-zhao/</loc>
+    <loc>https://QiuHeqian.github.io/author/minjian-zhang/</loc>
+    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://QiuHeqian.github.io/author/zichen-song/</loc>
+    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://QiuHeqian.github.io/publication/msle/</loc>
     <lastmod>2021-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://QiuHeqian.github.io/publication/bal-r2cnn/</loc>
@@ -128,11 +125,11 @@
     <loc>https://QiuHeqian.github.io/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
+    <loc>https://QiuHeqian.github.io/author/admin/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://QiuHeqian.github.io/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://QiuHeqian.github.io/author/nelson-bighetti/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://QiuHeqian.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
