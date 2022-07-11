@@ -119,12 +119,12 @@ Instead of using single IoU threshold 0.5, we adopt the mean accuracy &lt;strong
 &lt;p&gt;If you have any question, please concat us (&lt;a href=&#34;mailto:hqqiu@std.uestc.edu.cn&#34;&gt;hqqiu@std.uestc.edu.cn&lt;/a&gt;).&lt;/p&gt;
 &lt;h2 id=&#34;citation&#34;&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;If you find RefCrowd useful in your research, please consider citing:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;@article{qiu2022refcrowd,  
-  title={RefCrowd: Grounding the Target in Crowd with Referring Expressions},  
-  author={Qiu, Heqian and Li, Hongliang and Zhao, Taijing and Wang, Lanxiao and Wu, Qingbo and Meng, Fanman},  
-  booktitle={arXiv preprint arXiv: xxx},  
-  year={2022}  
-}  
+&lt;pre&gt;&lt;code&gt;@article{qiu2022refcrowd,
+  title={RefCrowd: Grounding the Target in Crowd with Referring Expressions},
+  author={Qiu, Heqian and Li, Hongliang and Zhao, Taijin and Wang, Lanxiao and Wu, Qingbo and Meng, Fanman},
+  journal={arXiv preprint arXiv:2206.08172},
+  year={2022}
+}
 &lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
@@ -229,7 +229,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-937615248&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-851497362&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -239,7 +239,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-937615248&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-851497362&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
